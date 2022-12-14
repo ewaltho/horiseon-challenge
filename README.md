@@ -10,7 +10,7 @@ No installation needed.
 Use the tabs in the top bar to navigate to the topic you would like to know about first. Be sure to take notes!
 
 ## Link
-[Horiseon]()
+[Horiseon](https://ewaltho.github.io/horiseon-challenge/)
 
 ## License
 None
